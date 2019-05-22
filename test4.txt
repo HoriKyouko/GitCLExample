@@ -1,3 +1,1 @@
-This is our pull test file.
-It's really cool!
 Now this is our branch test file.
